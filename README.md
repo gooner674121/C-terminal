@@ -1,4 +1,4 @@
-to use this you need to download GCC xopy the tutorial 
+to use this you need to download GCC copy the tutorial 
 
 1. Install MinGW
 
